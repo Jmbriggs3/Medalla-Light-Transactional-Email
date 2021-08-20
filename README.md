@@ -1,0 +1,1 @@
+# Medalla-Light-Transactional-Email
